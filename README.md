@@ -17,3 +17,5 @@ The following are the matrices and plots that have not reneded correctly in the 
 
 
 WARNING: In no way does this project offer financial advice or any other endorsement of any financial product. This is a research based project and should be used for learning. 
+
+Sources used for the project: https://www.ccsenet.org/journal/index.php/ijef/article/view/33007 
