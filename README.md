@@ -1,4 +1,4 @@
-# Testing-Cointegration-and-Stationarity
+# Testing Cointegration and Stationarity
 An example of simpler statistical methods for analyzing arbitrage opportunities in a basket of securities. This project explores correlation and cointeration as two means of exploring the relationship between baskets of securities. While closely related, correlation and cointegration are not the same. Cointegration is a statement about the relationship between the levels of two time series. Please consult the link at the bottom of the README for more information.
 
 The following are the matrices and plots that have not reneded correctly in the visual of the jupyter notebook. They include correlation and cointegration matrices, a detailed table of OLS statistical data, and a graph of the spread.
