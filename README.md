@@ -18,6 +18,8 @@ The following are the matrices and plots that have not reneded correctly in the 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
+IMPORTANT NOTES: The notebook will not compile correctly if using pandas 1.4 or higher. Please downgrade pandas 1.3.5 first (pip3 install pandas==1.3.5).
+
 WARNING: In no way does this project offer financial advice or any other endorsement of any financial product. This is a research based project and should be used for learning. 
 
 Sources used for the project: https://www.ccsenet.org/journal/index.php/ijef/article/view/33007 
